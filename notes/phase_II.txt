@@ -15,7 +15,7 @@ You need to do the following.
 	The output will be displayed in the window underneath the button to the left.
     
 	- Another option is to use this file 
-	https://gitlab.com/fareszf/collatz_calculator/-/blob/master/collatz.pyc. 
+	https://gitlab.com/fareszf/collatz_calculator/-/blob/master/collatz.pyc
 	On *UTCS machines*, the comamand is:
 
 	python3 collatz.pyc < input > output
