@@ -63,6 +63,11 @@ Lists vs tuples:
 - A list is mutable: A mutable object can be altered after its creation
 - A tuple is immutable: An immutable object cannot be changed 
 but rather return a new object when attempting to update
+
+Other mutable objects include set and dict
+Other immutable objects include frozenset, string, int, float, bool
+
+
 - Example
 # cannot change immutable objetcs
 >>>a = [4, 9]
