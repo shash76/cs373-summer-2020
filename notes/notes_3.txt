@@ -155,7 +155,10 @@ i = 8
 j = not i & (i - 1)
 assert j is True      # power of 2
 
-i & (i - 1) will be conducted first, i.e., 1000 & 0111, and the result will be False
+i & (i - 1) will be conducted first since & has higher precedence than not, 
+i.e., 1000 & 0111, and the result will be False
+
 j = not False 
+
 j = True
 
