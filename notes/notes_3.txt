@@ -145,7 +145,7 @@ TypeError
 
 Operators.py
 ------------
-Boolean operators are typically used on bollean values. Examples, and, or, not 
+Boolean operators are typically used on boolean values. Examples, and, or, not 
 Bitwise operators are typically used  on integral values. Examples, ~, |, &, >>, <<
 
 operators precedence: https://www.programiz.com/python-programming/precedence-associativity
