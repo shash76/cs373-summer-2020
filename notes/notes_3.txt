@@ -150,7 +150,7 @@ Bitwise operators are typically used  on integral values. Examples, ~, |, &, >>,
 
 operators precedence: https://www.programiz.com/python-programming/precedence-associativity
 
-Example,
+Example (corrections from in-class discussion):
 i = 8
 j = not i & (i - 1)
 assert j is True      # power of 2
